@@ -4,6 +4,10 @@ class ProductsController < ApplicationController
     @products = Product.all
   end
 
+  def new
+
+  end
+
   def show
     @product = Product.find_by(params[:id])
   end
