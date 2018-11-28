@@ -31,6 +31,4 @@
 /config/master.key
 
 #Ignore env
-/.env
-
-/config/initializers/devise.rb
+.env
