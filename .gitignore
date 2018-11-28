@@ -32,3 +32,5 @@
 
 #Ignore env
 /.env
+
+/config/initializers/devise.rb
